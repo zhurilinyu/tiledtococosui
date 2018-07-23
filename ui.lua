@@ -1,4 +1,5 @@
 --[[
+說明：可隨意修改與運用
 an ui for tiled to cocos lua
 auth:zhurilinyu@163.com
 ]]--
